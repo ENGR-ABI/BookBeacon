@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385222238446",
+    "project_id": "abis-bookbeacon",
+    "storage_bucket": "abis-bookbeacon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385222238446:android:be6111bb5dab2dd1d653ff",
+        "android_client_info": {
+          "package_name": "com.example.bookbeacon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY0RMhxqAAkxHH91RHgbY4xKzjYjc_UU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
